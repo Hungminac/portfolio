@@ -13,3 +13,4 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :beetle: Correção de bug
 - :checkered_flag: Release
 
+
